@@ -1,0 +1,53 @@
+# baduk imports — Generative Engine Optimization Map
+
+> A בנייה ומבנים מיוחדים business.
+
+---
+
+## Pages
+
+### Home
+https://baduk-imports-ae1fecd6.zappy5.app
+
+### Solutions
+https://baduk-imports-ae1fecd6.zappy5.app/solutions
+
+### Projects
+https://baduk-imports-ae1fecd6.zappy5.app/projects
+
+### Contact
+https://baduk-imports-ae1fecd6.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://baduk-imports-ae1fecd6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://baduk-imports-ae1fecd6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://baduk-imports-ae1fecd6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About baduk imports
+baduk imports is a business in the בנייה ומבנים מיוחדים industry.
+
+## Target Audience
+לקוחות המחפשים פתרונות למשרדים, יחידות מגורים, וחצרות
+
+## Industry
+בנייה ומבנים מיוחדים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://baduk-imports-ae1fecd6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://baduk-imports-ae1fecd6.zappy5.app/robots.txt
